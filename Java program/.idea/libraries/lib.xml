@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/jgrapht-demo-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jgrapht-ext-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jgraphx-2.0.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jgrapht-ext-1.1.0-uber.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jgraph-5.13.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jgrapht-io-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/antlr4-runtime-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-lang3-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/sqlite-jdbc-3.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jgrapht-core-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/jgrapht-io-1.1.0-uber.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

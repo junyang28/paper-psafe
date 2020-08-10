@@ -1,0 +1,11 @@
+1. Replace cc2420x folder in	.../tinyos-main/tos/chips/cc2420x
+2. Replace rfxlink folder in	.../tinyos-main/tos/lib/rfxlink
+3. Replace ftsp folder in	.../tinyos-main/tos/lib/ftsp
+
+To compile the NesC program:
+	make telosb cc2420x
+
+To compile java program: 
+	make
+
+** The TinyOS and Java Makefiles are compatible with this TinyOS version: https://github.com/tinyos/tinyos-main
